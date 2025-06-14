@@ -10,7 +10,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": "$",
+      "value": "₩",
       "required": true
     },
     "AUTO_REJECT_CALL": {
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "255765457691",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -90,7 +90,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA71Vy46jRhT9l9ramub9sNRSyhiwjd9P7CiLMhSYBgMuCtswcpZZRIqURY80m5bmMxIpysfMF/QnRNjdmZZmMtORorCAoijuPefUPbfegjgJMmzhAjTegpQEB0RxNaRFikEDNHPPwwTUgYsoAg0wt4yOsxEYQ1wJtIg5Ms80Vra6dOlryrq5GnpxOpd7oWAzt+BcB2m+iQLnKwFlRw5yfe07tanjFX6LjhaZ1Mwkaoe+t4kXOTPFNdNup0F2C85VRBSQIPb1dIt3mKDIwsUIBeR18ENtWhJ+3sluQkETFE61ZKnMM6/0hjYU+kLH7BPXaLN39vh18LtlYg/aDGJ7WjyZZ4N1J9zq/I3S7R2lMub2RmT5tSzpcixzhZ8FfozdjotjGtDi1bqbltxb2N1Rvwh3y9GkbEcTv+l1+2wp9sgk106n6exUJsHe1F8HPLVrg1VBDGlf7KeD2QaJLnPsrko4CGvxYbLSJ7hY0HA0nK1eAh+R51oJ/43uuWYO0F1UcFarmXen/fxwdGI4vtmUGk0ZozsZzFgnTWVkvlL3A+fqw3Q3WkbwMFsppbJYJbPFmk/LWm9ot9Vl1NvyvrDMCucTfERz8jWU+p0utQ1GWx/d49K6ax3GBO8cy7YRrCXFAneNrmc2HTrYcTm0Z87gMOwdx1oYnvaTO3N0ggu9sGwioqa05DBq6pw4Dsa3F0YhLjouaLDnOiDYDzJKEA2SuJrjGLkOkHuYYodgepEXCD2pcI77HWLWxehUdk9rY9rrBFbJFhtbP436oV5oFipz3L8FdZCSxMFZht12kNGEFH2cZcjHGWh8f9mpijTBu4TibuCCBuBEUZZEQZQllf0ue3PcIpqhNH0TYwrqwCPJro9Bg5Ic18HlB1UzhJai84bGaExLZCTFYCS1KbMKJ8sqw1QUd9eks2CHM4p2KWiwsqCqrCjzwrn+H+EQhBbDtSDDqi1DYFpNjlWFJlQgK7KQU7j/C4fACboutHgByi2dg9DgDENXVU3Xm7Kss8I3cKj/FQ5RFVocz4oMFDkFQlWXJE3meEZXFVXkROXrOATm/EMdxPhEr76uqpFn68ALSEbncZ5GCXKfTf/8ETlOksd0WsSOVg0wAY0X05jSIPazilkeI+JsgwPWKh6g4aEow38bABPsPnN5aupa4la+bCutuTw2BVBhrwJ9pk1DYj6XJ3paJoksz0q8pAqMKlUrqw91EKMqGHh8ePfz48P9b48P7365Pu//fHy4/+PHx4f73988Prz7qbr9+vH9h4/vP1TyPRGrcLiYoiDKQANow7uWKIdtvb870qxjmlD3oeZD8EmI54ZzNfSN5QTbxXG9hvZQmCed7ZhtkZ5TmnvTHh6L5oCbGRMIYyla3X4hSKWKXZPWYakvjvyGRccT5wqxwvMRq+bFLIHTQy/r3pz2aoHYpZYyq/aStxdoX27I2DlO+qQfsC2ZFIPFTQxn1DR3KMYQ3lbZXHwIHPwymeUyvmJF3Kqte16CJDcdZrMgNAwjSVh7vtV8di4Xx5q8lr2D0F/6TWhsmZt00GcVXe/RvUl363AYCRMdemvmZMWws4XXVnhpxdHTERg8Nang8uoF+HKiPO3VN7f8CryqTOZcfxHj6Yz6hz7f9Iq4kywcczk2ytywtM58MJYKvn/ab6My6/szNzzNx7BbS5fgXFkkjRD1ErIDDYBilySXgiJJXpV6J/aSryTTYKej+1fmEcoo/GSfLziSU6+rRiRJ2yjbggbg/dG8G1ZeKGCaTimiz24EsLqszhKc/wJ7WL3TyAkAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
